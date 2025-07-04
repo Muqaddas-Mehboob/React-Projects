@@ -1,1 +1,1 @@
-test
+This is the react projects series.
