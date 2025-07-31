@@ -34,3 +34,31 @@
 ```bash
 git clone https://github.com/Muqaddas-Mehboob/React-Projects.git
 cd React-Projects
+
+🧠 Skills Covered
+⚛️ React Basics
+
+🔄 State & Props
+
+🌐 API Integration
+
+⚙️ Custom Hooks
+
+🌈 Tailwind Styling
+
+🧭 React Router
+
+🌍 Context API
+
+🔥 Redux Toolkit
+
+🚀 Vite Setup
+
+---
+
+### 🟡 What you can do next:
+- Add a screenshot to each project folder as `preview.png`, and link them in this README.
+- Add `README.md` inside each individual project to explain that project briefly (want help with that too? I can create a template).
+- Add hosted links (e.g., from Netlify/Vercel) if you deploy them later.
+
+Would you like me to generate one short `README.md` for one of the folders too (like your `weatherApp`)?
