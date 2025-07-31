@@ -36,26 +36,22 @@ git clone https://github.com/Muqaddas-Mehboob/React-Projects.git
 cd React-Projects
 
 ```
+## 🧠 Skills Covered
 
-🧠 Skills Covered
-⚛️ React Basics
+- 🧠 **React Basics**
+- 🔄 **State & Props**
+- 🌐 **API Integration**
+- ⚙️ **Custom Hooks**
+- 🌈 **Tailwind Styling**
+- 🧭 **React Router**
+- 🌍 **Context API**
+- 🔥 **Redux Toolkit**
+- ⚡ **Vite Setup**
 
-🔄 State & Props
+---
 
-🌐 API Integration
+## ⭐ Want to Support?
 
-⚙️ Custom Hooks
-
-🌈 Tailwind Styling
-
-🧭 React Router
-
-🌍 Context API
-
-🔥 Redux Toolkit
-
-🚀 Vite Setup
-
-⭐ Want to support?
 Give this repo a ⭐ and share it with others learning React!
-Alse follow me on Linkedin : 📌 [Muqaddas-Mehboob](https://www.linkedin.com/in/muqaddas-mehboob/) 
+
+Also follow me on LinkedIn: [📌 Muqaddas-Mehboob](https://www.linkedin.com/in/muqaddas-mehboob/)
