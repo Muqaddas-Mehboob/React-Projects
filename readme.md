@@ -1,6 +1,3 @@
-### ✅ Full README for Your React Projects Collection
-
-````md
 # 🚀 React Projects by Muqaddas Mehboob
 
 ![Repo Size](https://img.shields.io/github/repo-size/Muqaddas-Mehboob/React-Projects)
@@ -37,52 +34,3 @@
 ```bash
 git clone https://github.com/Muqaddas-Mehboob/React-Projects.git
 cd React-Projects
-````
-
-> Now go into any project folder and run:
-
-```bash
-npm install
-npm start
-```
-
-Make sure Node.js and npm are installed on your machine.
-
----
-
-## 🧠 Skills Covered
-
-* ⚛️ React Basics
-* 🔄 State & Props
-* 🌐 API Integration
-* ⚙️ Custom Hooks
-* 🌈 Tailwind Styling
-* 🧭 React Router
-* 🌍 Context API
-* 🔥 Redux Toolkit
-* 🚀 Vite Setup
-
----
-
-## 👩‍💻 About Me
-
-Hi, I'm **Muqaddas Mehboob**, a software engineering student from Pakistan 🇵🇰
-I’m passionate about frontend development, especially building real-world UI using React.
-
-📌 GitHub: [Muqaddas-Mehboob](https://github.com/Muqaddas-Mehboob)
-📌 LinkedIn : [Muqaddas-Mehboob](https://www.linkedin.com/in/muqaddas-mehboob/)
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** — free to use and modify.
-
----
-
-## ⭐ Want to support?
-
-Give this repo a ⭐ and share it with others learning React!
-
-```
-
