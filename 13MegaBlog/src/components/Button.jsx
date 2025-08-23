@@ -10,7 +10,7 @@ function Button({
 
 
     // forward refrence hook is used when you to forward the reference of the state of the component
-    //forwardRef in React is like saying:
+    // forwardRef in React is like saying:
     // "Hey, I want to give someone direct access to a child component’s DOM element or instance without making the child responsible for passing it."
     // It’s used when:
     // You want a parent to control or directly access something inside a child component (like focusing an input).
